@@ -176,12 +176,11 @@
             <div class="row">
                 <div class="col-md-6 mb-4 mb-sm-0">
                     <h5>Alamat</h5>
-                    <p>Jalan Raya Sempidi No. 69 Lukluk, Mengwi, Badung, Bali</p>
+                    <p>Jalan Raden Wijaya no28 B, Gedangan, Sidaorjo, Jawa Timur </p>
                     <br>
                     <h5>Kontak</h5>
-                    <p>laundryxyz@gmail.com</p>
-                    <p>(0361)123456</p>
-                    <p>081234567890</p>
+                    <p><li><a href="https://www.instagram.com/nt_hamskie/?hl=id"> Instagram</a></li></p>
+                    <p>081233075477</p>
                 </div>
                 <div class="col-md-6">
                     <iframe
